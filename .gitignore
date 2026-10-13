@@ -1,0 +1,15 @@
+#Enviroment variables and API keys
+.env
+.env.*
+
+#python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+#IDE
+.vscode/
+
+#Generated research reports
+research_history/
